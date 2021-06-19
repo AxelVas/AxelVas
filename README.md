@@ -1,4 +1,4 @@
-<div align="center"> <h2>👋 Hi, I’m Axel </div>
+<div align="center"> <h1>👋 Hi, I’m Axel </div>
 
 #### Welcome to my page!
 #### Here you will find a lot of interesting projects from testing hypotheses and analytical research to launching a neural network to determine the age of a buyer from a photo.
