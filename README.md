@@ -12,7 +12,7 @@ Some things about me :<br>
 6️⃣ How to reach me : Mail me at <a href="axelmainfw@hotmail.com">axelmainfw@hotmail.com</a><br>
 7️⃣ I’m interested in data science and everything <br>
 8️⃣ Fun fact : artificial intelligence already lives among us<br>
-#### <i>P.S. I hope that in my work you will be able to find something useful for yourself.
+#### <i> P.S. I hope that in my work you will be able to find something useful for yourself.
 
 <hr>
 <!---
