@@ -6,7 +6,7 @@
 #### Несколько слов о себе:<br>
 1️⃣ Я начинающий специалист в области анализа данных и науки о данных <br>
 2️⃣ Успешно прошел множество курсов профессиональной подготовки в области науки о данных <br>
-3️⃣ Отлично владею SQL, Sklearn, Python, Пандами, Numpy, Sklearn, Matplotlib, PyPlot, Seaborn, TF,NLTK, Tensorflow, RNN, PyTorch и другими библиотеками  <br>
+3️⃣ Отлично владею SQL, Sklearn, Python, Pandas, Numpy, Sklearn, Matplotlib, PyPlot, Seaborn, TF,NLTK, Tensorflow, RNN, PyTorch и другими библиотеками  <br>
 4️⃣ Изучал такие области программирования, как веб-разработка и программирование на стороне сервера  <br>
 5️⃣ В настоящее время работаю над созданием модели, которая может предсказывать будущее <br>
 6️⃣ Как связаться со мной : Напишите мне по адресу <a href="axelmainfw@hotmail.com">axelmainfw@hotmail.com</a><br>
