@@ -41,6 +41,7 @@
 #### Certificate of Comletion of the Data Scientist
 <div> <img src="https://user-images.githubusercontent.com/76148212/123128964-3ff08200-d454-11eb-931d-4c5a32672c77.png" width="180" height="130">
 <img src="https://user-images.githubusercontent.com/76148212/123129094-5ac2f680-d454-11eb-8e3c-40f3c4e19d61.png" width="180" height="130">
+<img src="https://user-images.githubusercontent.com/76148212/126800435-743d18c0-9062-44b8-acd1-f7af2a4a63e0.png" width="180" height="130">
 <img src="https://user-images.githubusercontent.com/76148212/123132071-ff463800-d456-11eb-8603-1755646220ea.png" width="180" height="130"> 
 
 #### Kaggle
