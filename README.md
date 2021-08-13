@@ -48,6 +48,7 @@
 <div> 
 <img src="https://user-images.githubusercontent.com/76148212/129322272-7969321b-79b6-4880-b629-9c01dec0d5a9.png" width="180" height="130">
 </div>
+  
 #### Kaggle
 <div> 
 <img src="https://user-images.githubusercontent.com/76148212/123130268-50edc300-d455-11eb-9b66-a2a210b828b6.png" width="180" height="100">
@@ -63,7 +64,7 @@
 <img src="https://user-images.githubusercontent.com/76148212/123129565-b7261600-d454-11eb-8d50-9c26910adaed.png" width="180" height="130">
 <img src="https://user-images.githubusercontent.com/76148212/125744523-3e5adf30-8c76-4384-b8e3-86fad5cc0f69.png" width="180" height="130">
 <img src="https://user-images.githubusercontent.com/76148212/126707155-bc86f7f5-f64e-49de-b900-c8a0eb849528.png" width="180" height="130">
-<img src="https://user-images.githubusercontent.com/76148212/129322272-7969321b-79b6-4880-b629-9c01dec0d5a9.png" width="180" height="130">
+
 </div>
 
 <!---
