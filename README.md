@@ -47,6 +47,10 @@
 #### Internship from Shift+Enter 
 <div> 
 <img src="https://user-images.githubusercontent.com/76148212/129322272-7969321b-79b6-4880-b629-9c01dec0d5a9.png" width="180" height="130">
+
+  <img src="https://user-images.githubusercontent.com/76148212/151813006-eac05140-2886-4b35-bad3-9fa27af97f3c.png" width="180" height="130">
+  <img src="https://user-images.githubusercontent.com/76148212/151813366-917cc203-9ef0-4cc2-819c-d1f1d544d53c.png" width="180" height="130">
+  <img src="https://user-images.githubusercontent.com/76148212/151813537-ae971ba6-874b-49c3-a76b-0b11c29d38fc.png" width="180" height="130">
 </div>
   
 #### Kaggle
